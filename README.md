@@ -15,7 +15,7 @@ Desktop for a lightweight Discord experience.
 
 2.  Install WebCord using Go:
     ```bash
-    go get github.com/k3rn31p4nic/WebCord
+    go get github.com/iamtraction/WebCord
     ```
     > **Note:** If you're on Linux, you need to have `libwebkit2gtk-4.0-dev` or
     > `webkit2gtk-4.0-dev` to be able to run this.
